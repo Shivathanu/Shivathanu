@@ -11,7 +11,7 @@ I am Shivathanu. I love building products that solves problems, developed my hob
 
 ![Shivathanu's github stats](https://github-readme-stats.vercel.app/api?username=Shivathanu&show_icons=true&theme=radical)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
